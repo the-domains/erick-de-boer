@@ -1,0 +1,69 @@
+typography_spectrum: 0.2383513
+color:
+  saturation: 0.5358423
+  brandStrength: 0.7293907
+  lightness: 0.8476703
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  rhythmicContrast: 0.9191681
+layout_spectrum: 0.9480287
+analytics:
+  google: UA-85157418-1
+  facebook: '1023658157729344'
+author:
+  name: Erick de Boer
+  email: e.deboer@em-cultuur.nl
+name: Erick de Boer
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+title: Erick Theatert Mee...
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed0cff40-d83e-4c61-a159-8425dc668624.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed0cff40-d83e-4c61-a159-8425dc668624.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Seizoen 16/17
+purpose:
+  - type: contact
+    url: 'mailto:e.deboer@em-cultuur.nl'
+    label: Mail me
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4d55a69-87dc-4e34-9b2a-e641cd579e6b.png
+opengraph:
+  appId: '352519941814820'
+github: true
+url: 'http://erickdeboer.nl'
