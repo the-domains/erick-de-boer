@@ -1,20 +1,20 @@
 ---
 description: Alles wat je niet moet doen als je een crematie mag leiden.
 author: []
-datePublished: '2017-03-29T10:47:39.298Z'
-dateModified: '2017-03-29T10:47:37.920Z'
-title: ''
+datePublished: '2017-03-29T10:48:40.673Z'
+dateModified: '2017-03-29T10:48:40.156Z'
+title: Wim Helsen met  "Er wordt naar u geluisterd"
 publisher: {}
 via: {}
 inFeed: true
-starred: false
-datePublishedOriginal: '2017-03-29T10:47:39.298Z'
 sourcePath: >-
   _posts/2017-03-29-alles-wat-je-niet-moet-doen-als-je-een-crematie-mag-leiden.md
+starred: false
+datePublishedOriginal: '2017-03-29T10:47:39.298Z'
 _context: 'http://schema.org'
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a13c2b65-a286-41c0-98a4-8163beeba4d7.jpg)
+![Grote zaal 9 maart](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a13c2b65-a286-41c0-98a4-8163beeba4d7.jpg)
 
 Alles wat je niet moet doen als je een crematie mag leiden.
